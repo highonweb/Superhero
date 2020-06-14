@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Superhero/static/css/main.629ece0e.chunk.css",
-    "main.js": "/Superhero/static/js/main.d3df4c8d.chunk.js",
-    "main.js.map": "/Superhero/static/js/main.d3df4c8d.chunk.js.map",
+    "main.js": "/Superhero/static/js/main.64635bf4.chunk.js",
+    "main.js.map": "/Superhero/static/js/main.64635bf4.chunk.js.map",
     "runtime-main.js": "/Superhero/static/js/runtime-main.4ef7ba13.js",
     "runtime-main.js.map": "/Superhero/static/js/runtime-main.4ef7ba13.js.map",
     "static/js/2.9b7b890a.chunk.js": "/Superhero/static/js/2.9b7b890a.chunk.js",
     "static/js/2.9b7b890a.chunk.js.map": "/Superhero/static/js/2.9b7b890a.chunk.js.map",
     "index.html": "/Superhero/index.html",
-    "precache-manifest.a8d9a677b960b582ca51d52e11ef5b37.js": "/Superhero/precache-manifest.a8d9a677b960b582ca51d52e11ef5b37.js",
+    "precache-manifest.1c502b81d985a23a950f0071646964f2.js": "/Superhero/precache-manifest.1c502b81d985a23a950f0071646964f2.js",
     "service-worker.js": "/Superhero/service-worker.js",
     "static/css/main.629ece0e.chunk.css.map": "/Superhero/static/css/main.629ece0e.chunk.css.map",
     "static/js/2.9b7b890a.chunk.js.LICENSE.txt": "/Superhero/static/js/2.9b7b890a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4ef7ba13.js",
     "static/js/2.9b7b890a.chunk.js",
     "static/css/main.629ece0e.chunk.css",
-    "static/js/main.d3df4c8d.chunk.js"
+    "static/js/main.64635bf4.chunk.js"
   ]
 }

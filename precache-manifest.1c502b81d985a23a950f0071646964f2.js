@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10e0f970aa17dd50597e98fb33656742",
+    "revision": "b5a84a884b9489ab2b9c30859e586e08",
     "url": "/Superhero/index.html"
   },
   {
-    "revision": "3c8e147ede10c6c21ff9",
+    "revision": "0ee63d5616afeb4feaaf",
     "url": "/Superhero/static/css/main.629ece0e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Superhero/static/js/2.9b7b890a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c8e147ede10c6c21ff9",
-    "url": "/Superhero/static/js/main.d3df4c8d.chunk.js"
+    "revision": "0ee63d5616afeb4feaaf",
+    "url": "/Superhero/static/js/main.64635bf4.chunk.js"
   },
   {
     "revision": "c657fa50f0eaf8877db1",
